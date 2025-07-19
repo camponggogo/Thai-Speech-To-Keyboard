@@ -41,7 +41,7 @@ pip install pyinstaller
 3. สร้างไฟล์ .exe ด้วยคำสั่ง
 
 ```sh
-pyinstaller --onefile --name "Speed to Tech Keyboard" --icon=icon.ico main_gui.py
+pyinstaller --onefile --name "Speed to Text Keyboard" --icon=icon.ico main_gui.py
 ```
 
 ไฟล์ .exe จะอยู่ในโฟลเดอร์ `dist/`
