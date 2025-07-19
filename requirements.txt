@@ -1,0 +1,5 @@
+speechrecognition
+pyaudio
+pyautogui 
+pyperclip 
+pyttsx3 
